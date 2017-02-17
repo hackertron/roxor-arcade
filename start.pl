@@ -9,7 +9,7 @@ system("say 'SHALL WE PLAY A GAME?'");
 
 $currentScore = 0;
 
-#http://www.network-science.de/ascii/
+# ascii generator : http://www.network-science.de/ascii/
 
 print(":::       ::: :::::::::: :::        ::::::::   ::::::::  ::::    ::::  :::::::::: \n");
 print(":+:       :+: :+:        :+:       :+:    :+: :+:    :+: +:+:+: :+:+:+ :+:        \n");
